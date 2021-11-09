@@ -1,10 +1,11 @@
 {
-  "name": "auto-changelog",
+  "name": "auto-changelog-sto",
   "version": "1.0.0",
   "description": "Test Auto Changelog",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
