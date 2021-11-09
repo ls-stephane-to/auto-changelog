@@ -1,6 +1,6 @@
 {
   "name": "auto-changelog-sto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Auto Changelog",
   "main": "index.js",
   "scripts": {
