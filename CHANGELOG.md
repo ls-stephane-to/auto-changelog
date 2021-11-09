@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/ls-stephane-to/auto-changelog/compare/v1.1.3...v1.2.0) (2021-11-09)
+
+
+### Features
+
+* this is the feat via github desktop ([420fed3](https://github.com/ls-stephane-to/auto-changelog/commit/420fed3bf28bc19e1923d7fbf1e11491de59210f))
+
 ### [1.1.3](https://github.com/ls-stephane-to/auto-changelog/compare/v1.1.2...v1.1.3) (2021-11-09)
 
 ### [1.1.2](https://github.com/ls-stephane-to/auto-changelog/compare/v1.1.1...v1.1.2) (2021-11-09)
